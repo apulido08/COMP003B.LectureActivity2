@@ -1,3 +1,4 @@
+
 namespace COMP003B.LectureActivity2
 {
     public class Program
